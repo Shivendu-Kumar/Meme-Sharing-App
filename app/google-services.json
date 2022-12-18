@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797108762559",
+    "project_id": "meme-sharing-app-1ae63",
+    "storage_bucket": "meme-sharing-app-1ae63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797108762559:android:d6e1d326de544132c7930a",
+        "android_client_info": {
+          "package_name": "com.example.memeshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797108762559-d0kk54se46pcsqbsq2ja4mr1rmon107c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2i1HR_fbpffUmcnHQ0wzgXcM0QK9S3IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797108762559-d0kk54se46pcsqbsq2ja4mr1rmon107c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
